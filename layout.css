@@ -1,0 +1,46 @@
+.first {
+    background-color: aqua;
+    width:82px ;
+    height:716px;
+}
+.second {
+    margin-left:81px;
+    margin-top:-712px;
+    background-color: red;
+    width:218px;
+    height:712px;
+
+}
+
+.text1{
+    text-align: center;
+    color: white;
+    font-size: extra-large ;
+}
+.text2{
+    text-align: center;
+    color: white;
+    font-size: extra-large ;
+}
+.p1{
+    text-align: center;
+    color:rgb(231, 231, 71)
+    
+}
+.p2{
+    text-align: center;
+    color:rgb(231, 231, 71)
+    
+}
+
+.third{
+    margin-left: 299px;
+    margin-top: -711px;
+    background-color: green;
+    width: 215px;
+    height: 712px;
+
+}
+
+
+
