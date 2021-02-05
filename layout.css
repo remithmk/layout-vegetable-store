@@ -1,3 +1,5 @@
+
+
 .first {
     background-color: aqua;
     width:82px ;
@@ -11,7 +13,9 @@
     height:712px;
 
 }
+.two{
 
+}
 .text1{
     text-align: center;
     color: white;
@@ -35,12 +39,105 @@
 
 .third{
     margin-left: 299px;
-    margin-top: -711px;
+    margin-top: -712px;
     background-color: green;
     width: 215px;
     height: 712px;
 
 }
+.fourth{
+    border:solid 1px 
+    width:100px;
+    height: 200px;
+
+}
+.f1{
+    margin-left: 514px;
+    margin-top: -689px;
+    background-color: 100%;
+    width: 215px;
+    height: 712px;
 
 
+}
+.f2{
+    margin-left: 763px;
+    margin-top: -711px;
+    
+    width: 215px;
+    height: 712px;
 
+}
+.f3{
+    margin-left: 514px;
+    margin-top: -498px;
+
+}
+.f3p{
+    margin-left: 514px;
+    margin-top: 6px;
+       background-color:#e7e5be ;
+    background-size: 10px;
+    width: 419px;;
+    height:0px;
+
+}
+.f4{
+    margin-left:537px;
+    margin-top:205px;
+}
+#im{
+    margin-left:376px ;
+    margin-top:-56px;
+}
+
+.f5{
+    margin-left: 673px;
+    margin-top:-106px;
+    
+}
+.f6{
+    margin-left: 811px;
+    margin-top:-106px;
+    
+
+}
+.f7{
+    margin-left: 540px;
+    margin-top:4px;
+}
+.features{
+    margin-left: 0px;
+    margin-top:517px;
+}
+.two3{
+    margin-left: 756px;
+    margin-top:-200px;
+}
+.three1{ 
+     padding-right:380px;
+     background-color: rgb(48, 45, 45);
+     padding-bottom: 10px;
+     margin-top: 0px;
+}
+.two2{
+    margin-left: 538px;
+    margin-top: -270px;
+    background-color:#e7e5be ;
+}
+.main{
+   background-color:#e7e5be ;
+   margin-right:360px
+}
+h5{
+    padding-left:222px ; 
+    color:white ;
+    padding-top: 10px
+}
+h6{
+   padding-left: 270px ;
+    color:rgb(192, 192, 93)
+}
+.three{
+    margin-top: 113px;
+}
